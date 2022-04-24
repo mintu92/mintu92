@@ -24,7 +24,7 @@ My hardware design includes a Printed circuit board design with customized requi
 
 My last project is " LORAWAN BASED ENERGY METER EXTENSION", where I have to measure the Phase voltage, Line voltage, phase current, Line current, Total energy, power factor and send them to the TTN server using LORAWAN based prototype node device and Dragino gateway. The device was successfully worked and installed in the industry environment. You can see details of its working in my portfolio.
 
-My goal is to provide the best quality services at an affordable price within a reasonable timeframe. Please visit my website for more details - www. bit-plexlab.com
+My goal is to provide the best quality services at an affordable price within a reasonable timeframe. Please visit my website for more details - https://www.bit-plexlab.com/
 
 <!---
 mintu92/mintu92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
