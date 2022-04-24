@@ -1,6 +1,6 @@
 - # Hardware and Firmware developer 
 - 
--   👋 Hi I am an embedded software developer and hardware designer with 6+ years of professional experience to lead your project to the best level. I provide optimal solutions for both hardware and firmware development, also provide prototypes and the small-scale production of designed hardware. I have expertise in the development of -
+- Hi I am an embedded software developer and hardware designer with 6+ years of professional experience to lead your project to the best level. I provide optimal solutions for both hardware and firmware development, also provide prototypes and the small-scale production of designed hardware. I have expertise in the development of 
 
 ► Arduino-based hardware design and firmware development.
 ► ESP32 and 8266 based hardware & firmware design.
